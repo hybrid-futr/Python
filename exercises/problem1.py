@@ -5,7 +5,7 @@
 #Prints out number "x", raised to the power "y"
 #Prints out the log(base 2) of "x"
 
-from library import math
+import math
 print("Please enter a number 'x' ")
 x = input()
 x = float(x)
