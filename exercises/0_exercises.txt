@@ -1,6 +1,7 @@
 #The exercises are taken from the following source(s) and updated with my own data and notes:
 
-# --
+#Colt Steel's The Modern Python 3 Bootcamp on Udemy (https://www.udemy.com/course/the-modern-python3-bootcamp/).
 
 #This list will be updated as sources are added.
 #created: 2/12/2021 - JFR
+#updated: 3/15/2021 - JFR
