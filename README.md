@@ -1,2 +1,3 @@
-# Python
-2021 Python projects
+# Python: portoflio
+
+A variety of Python exercises and projects. The main focus here is on network automation. 
