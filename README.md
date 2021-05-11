@@ -1,3 +1,3 @@
-# Python: portoflio
+# Python: portfolio
 
-A variety of Python exercises and projects. The main focus here is on network automation. 
+Python exercises and projects. The main focus here is on network automation. 
