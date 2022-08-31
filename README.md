@@ -1,3 +1,3 @@
-# Python portfolio
+#Python Projects
 
-Exercises and projects. The main focus here is network automation. 
+Inluding but not limited to data science, network monitoring tools, and fun web scrapers
