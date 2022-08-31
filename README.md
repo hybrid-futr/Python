@@ -1,3 +1,3 @@
-#ython Projects
+py projects:
 
-Including but not limited to data science, network monitoring tools, and fun web scrapers.
+Including but not limited to analytics, network monitoring, and web scraping.
