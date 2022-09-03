@@ -1,3 +1,3 @@
-# Python portfolio
+py projects:
 
-Exercises and projects. The main focus here is network automation. 
+Including but not limited to analytics, network monitoring, and web scraping.
