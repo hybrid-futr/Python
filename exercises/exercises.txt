@@ -1,0 +1,6 @@
+Excercises taken from a variety of sources. I'll try and keep an udated list.
+
+#SOURCES
+
+https://www.hackerrank.com/domains/tutorials/10-days-of-statistics
+https://www.udemy.com/course/the-modern-python3-bootcamp/
