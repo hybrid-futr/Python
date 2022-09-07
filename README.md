@@ -1,3 +1,3 @@
-py projects:
+#Monty Python's Flying Circus
 
-Including but not limited to analytics, network monitoring, and web scraping.
+This is a repo for 'projects' and 'excercises' and a lot of 'spam' probably
