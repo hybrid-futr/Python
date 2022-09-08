@@ -5,7 +5,6 @@
 import requests
 from bs4 import BeautifulSoup 
 import pandas as pd
-from pathlib import Path
 
 #SCRAPE THE PAGE
 #Download the web page containing the forecast
