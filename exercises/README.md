@@ -2,6 +2,6 @@
 
 **SQLITE3**
 
-*filename: sqllitetest.ipynb*
+*filename: sqlitetest.ipynb*
 
 Tutorial from [`Python Library`](https://docs.python.org/3/library/sqlite3.html)
