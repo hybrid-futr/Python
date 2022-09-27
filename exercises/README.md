@@ -11,4 +11,4 @@ Tutorial from Python Library: [`sqlite3 — DB-API 2.0 interface for SQLite data
 
 - [`Colt Steel's The Modern Python 3 Bootcamp on Udemy`](https://www.udemy.com/course/the-modern-python3-bootcamp/)
 
-- [`hackerrank`]](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+- [`hackerrank`](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
