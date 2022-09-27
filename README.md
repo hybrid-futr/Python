@@ -1,6 +1,6 @@
 # Monty Python's Flying Circus
 
-This is a repo for 'exercises' and 'projects' and a lot of 'spam' probably
+This is a repo for **exercises** and **projects** and a lot of **spam** probably *(read this in a Terry Jones voice)*
 
 - [`exercises`](https://github.com/jfremzrai/Python/tree/master/exercises)
 
