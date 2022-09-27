@@ -1,5 +1,9 @@
 # projects
 
+**cleaning**
+
+**survey**
+
 **weatherscraper**
 
 *files: [`weatherscraper.py`](https://github.com/jfremzrai/Python/blob/master/projects/weatherscraper.py)*
