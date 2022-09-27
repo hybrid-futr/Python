@@ -2,9 +2,9 @@
 
 **SQLITE3**
 
-*filename: sqlitetest.ipynb*
+*filename:* [`sqlitetest.ipynb`](https://github.com/jfremzrai/Python/blob/master/exercises/sqlitetest.ipynb)
 
-Tutorial from Python Library [`sqlite3 — DB-API 2.0 interface for SQLite databases`](https://docs.python.org/3/library/sqlite3.html)
+Tutorial from Python Library: [`sqlite3 — DB-API 2.0 interface for SQLite databases`](https://docs.python.org/3/library/sqlite3.html)
 
 
 ## SOURCES
