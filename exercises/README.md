@@ -1,8 +1,8 @@
-# Exercises
+# exercises
 
 **SQLITE3**
 
-*filename:* [`sqlitetest.ipynb`](https://github.com/jfremzrai/Python/blob/master/exercises/sqlitetest.ipynb)
+*files:* [`sqlitetest.ipynb`](https://github.com/jfremzrai/Python/blob/master/exercises/sqlitetest.ipynb), [`tutorial.db`](https://github.com/jfremzrai/Python/blob/master/exercises/tutorial.db)
 
 Tutorial from Python Library: [`sqlite3 — DB-API 2.0 interface for SQLite databases`](https://docs.python.org/3/library/sqlite3.html)
 
