@@ -1,4 +1,4 @@
-# Exercises from various tutorials
+# Exercises
 
 **SQLITE3**
 
