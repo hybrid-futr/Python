@@ -2,9 +2,10 @@
 
 **DASH**
 
-*files:* [`app.py`]()
+*files:* [`app.py`](), [`app2.py`](), [`app3.py`](), [`app4.py`](),  
 
-Code allong for the Ploty Dash tutorial (see link below).
+Code along for [`ploty Dash tutorial`](https://dash.plotly.com/installation).
+
 
 **SQLITE3**
 
