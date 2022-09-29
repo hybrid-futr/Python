@@ -4,7 +4,7 @@
 
 *files:* [`app.py`](), [`app2.py`](), [`app3.py`](), [`app4.py`](),  
 
-Code along for [`ploty Dash tutorial`](https://dash.plotly.com/installation).
+Code along for plotly [`Dash tutorial`](https://dash.plotly.com/installation).
 
 
 **SQLITE3**
